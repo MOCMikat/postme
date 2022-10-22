@@ -1,5 +1,5 @@
 {
-    #"short_name": "postme-app",
+    "short_name": "postme-app",
     "app_name": "postme",
     "description": "Postme te ayuda a enviar mensajes, videos, audios, etc.",
     "background_color": "#00b0ff",
