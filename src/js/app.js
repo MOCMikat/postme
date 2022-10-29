@@ -19,6 +19,7 @@ const closePostModal = () => {
 };
 
 window.addEventListener('beforeinstallprompt', (e) =>  {
+    console.log('boton instalar...');
     e.preventDefault();
     deferredPrompt = e;
 });
